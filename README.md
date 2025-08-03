@@ -47,7 +47,7 @@
     </td>
   </tr>
    <tr>
-    <td></td>
+     <td><img src="https://github.com/anzawi/Chronux/blob/master/chronux.png" width="40" /></td>
     <td>
       <strong><a href="https://github.com/anzawi/Chronux">Chronux</a></strong><br/>
        Distributed, pluggable job scheduling engine for .NET with retry policies, dead-letter queues, and clustering.
