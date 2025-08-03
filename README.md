@@ -46,6 +46,14 @@
       Type-safe, fluent workflow engine for .NET — ideal for approvals, flows, and state machines.
     </td>
   </tr>
+   <tr>
+    <td></td>
+    <td>
+      <strong><a href="https://github.com/anzawi/Chronux">Chronux</a></strong><br/>
+       Distributed, pluggable job scheduling engine for .NET with retry policies, dead-letter queues, and clustering.
+    </td>
+  </tr>
+  
   <tr>
     <td></td>
     <td>
