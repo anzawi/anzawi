@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-🔹 11+ years building modern, scalable backend & full-stack solutions  
+🔹 12+ years building modern, scalable backend & full-stack solutions  
 🔹 Creator of advanced .NET OSS libraries for mediation, workflows, and data modeling  
 🔹 Expert in clean architecture, CQRS, microservices, and event-driven design  
 🔹 Angular + .NET full-stack developer with AI/ML system integration  
